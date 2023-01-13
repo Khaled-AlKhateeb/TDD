@@ -97,6 +97,8 @@ For more information on how you can use this app, please follow this [tutorial](
 - Twitter: [@KhaledA93751489](https://twitter.com/KhaledA93751489)
 - LinkedIn: [khaled-al-khateeb](https://www.linkedin.com/in/khaled-al-khateeb-3a1013247/)
 
+- GitHub: (https://github.com/Masouma864)
+- LinkedIn: (https://www.linkedin.com/in/masouma-modarresi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
