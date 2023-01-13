@@ -24,7 +24,8 @@ describe Solver do
       reversed = solve.reverse(word_three)
       expect(reversed).to eq('ogeseW')
     end
-  end  
+  end
+
   context 'Test the factorial method in Solver Class' do
     it 'should return the factorial of a given positive number' do
       factorial = solve.factorial(num)
@@ -38,6 +39,7 @@ describe Solver do
       expect(factorial_zero).to eq(1)
     end
   end
+  
   context 'Test the fizzbuzz method in Solver Class' do
     it 'should return fizzbuzz if 15 is passed as number' do
       string = solve.fizzbuzz(15)
