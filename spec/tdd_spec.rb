@@ -25,7 +25,10 @@ describe Solver do
       expect(reversed).to eq('ogeseW')
     end
   end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95082caf80ec7a27847f01116de20797d3541713
   context 'Test the factorial method in Solver Class' do
     it 'should return the factorial of a given positive number' do
       factorial = solve.factorial(num)

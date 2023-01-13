@@ -89,13 +89,17 @@ For more information on how you can use this app, please follow this [tutorial](
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Khaled Al-Khateeb**
 
 - GitHub: [@Khaled-AlKhateeb](https://github.com/Khaled-AlKhateeb)
 - Twitter: [@KhaledA93751489](https://twitter.com/KhaledA93751489)
 - LinkedIn: [khaled-al-khateeb](https://www.linkedin.com/in/khaled-al-khateeb-3a1013247/)
+
+👤 **Gilbert Okonjo**
+- GitHub: [@Github](https://github.com/Khaled-AlKhateeb)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/gilbert-okonjo/)
 
 👤 **Masouma Modarresi**
 - GitHub: [@Masouma-Modarresi](https://github.com/Masouma864)
