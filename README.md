@@ -101,6 +101,9 @@ For more information on how you can use this app, please follow this [tutorial](
 - GitHub: [@Github](https://github.com/Khaled-AlKhateeb)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/gilbert-okonjo/)
 
+👤 **Masouma Modarresi**
+- GitHub: [@Masouma-Modarresi](https://github.com/Masouma864)
+- LinkedIn: [@Masouma-Modarresi](https://www.linkedin.com/in/masouma-modarresi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
